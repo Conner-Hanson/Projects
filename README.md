@@ -1,6 +1,6 @@
 # Projects
-Important Projects
-# Title-Descriptions
+# Important Projects
+Title-Descriptions
 1.)
 
 2.)
